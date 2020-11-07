@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "BinaryIn",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "BinaryOut",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "BinaryStdIn",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "BinaryStdOut",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "Draw",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GameControl<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "GameControl",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrayscalePicture<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "GrayscalePicture",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "Out",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "Picture",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PlayMusic<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "PlayMusic",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdArrayIO",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdAudio",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdIn",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdInTest<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdInTest",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdOut",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdRandom",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "StdStats",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stopwatch<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "Stopwatch",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestIntroCS<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "TestIntroCS",
+            "projectName": "Hunt the Wumpus-p3t4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UnicodeTest<Hunt the Wumpus-p3t4>",
+            "request": "launch",
+            "mainClass": "UnicodeTest",
+            "projectName": "Hunt the Wumpus-p3t4"
+        }
+    ]
+}
