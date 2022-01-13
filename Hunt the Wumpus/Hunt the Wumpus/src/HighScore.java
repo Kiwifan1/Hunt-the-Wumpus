@@ -75,7 +75,7 @@ public class HighScore
     */
     public static void loadFiles() throws FileNotFoundException
     {
-        scoreBoard = new File("Hunt the Wumpus\\input\\HighScores.txt");    
+        scoreBoard = new File("C:\\Users\\joshu\\GitHub\\Hunt-the-Wumpus\\Hunt the Wumpus\\Hunt the Wumpus\\input\\HighScores.txt");    
         //Scanner input = new Scanner(scoreBoard,"utf-8");
         input = new Scanner(scoreBoard);
         String userName = "";
