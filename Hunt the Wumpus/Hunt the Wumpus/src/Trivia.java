@@ -86,7 +86,7 @@ public class Trivia
     public  Trivia()
     {
     	try{
-    		trivia = new File("C:\\Users\\joshu\\GitHub\\Hunt-the-Wumpus\\Hunt the Wumpus\\Hunt the Wumpus\\input\\Trivia.txt");
+    		trivia = new File("Hunt the Wumpus/Hunt the Wumpus/input/Trivia.txt");
             input = new Scanner(trivia);
     	}
     	catch(FileNotFoundException e) {

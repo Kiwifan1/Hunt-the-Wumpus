@@ -1860,7 +1860,7 @@ String Daniel = "Graphical Interface";
 
 String Saihaj = "Player, Game Control, and Project Manager";
 
-String Josh = "Game Control";
+String Josh = "Game Control and Project Manager";
 
 String Brian = "Trivia and High Scores";
 
